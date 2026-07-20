@@ -4,6 +4,26 @@ Project Overview
 
 Customer Orders Management Application is a web-based application developed using Oracle APEX and Oracle Database. The application provides a centralized platform for managing customer orders, products, customers, stores, and related business operations. It includes interactive dashboards, advanced search capabilities, geographical store location mapping, and complete master data management.
 
+Repository Structure
+====================
+
+CUSTOMER-ORDERS-MANAGEMENT-APPLICATION
+│
+├── APEX
+│   └── f100.sql
+│
+├── Database
+│   ├── DDL
+│   │   └── Cust_ord_Mngmt_app_DDL_script.sql
+│   │
+│   └── DML
+│       └── Cust_ord_Mngmt_app_DML_script.sql
+│
+├── Documents
+│   └── Customer Orders Application Pages Structure.xlsx
+│
+└── README.md
+
 Application Pages
 
 Home
